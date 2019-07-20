@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">food</string>
+    <string name="home">Home</string>
+    <string name="order">Order</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="user">nhập tài khoản</string>
+    <string name="pass">nhập mật khẩu</string>
+    <string name="btnlogin">LOGIN</string>
+    <string name="btndk">ĐĂNG KÝ</string>
+    <string name="cost">Cost</string>
+    <string name="information">Information Of Item</string>
+    <string name="item">Item</string>
+</resources>
